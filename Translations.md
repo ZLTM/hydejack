@@ -8,7 +8,7 @@ noindex: true
 <div class="image-container image-container-num4">
   <div class="image image-num4">
     <a href="/about">
-      <img src="/assets/img/haremguild-portrait.jpg" />
+      <img src="/assets/img/haremguild-pic.jpg" />
     </a>
   </div>
   <div class="caption caption-num4">
@@ -19,7 +19,7 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <img src="/assets/img/wildromance-portrait.jpg" />
+    <img src="/assets/img/wildromance-pic.jpg" />
   </div>
   <div class="caption caption-num4">
     Wild Romance
@@ -29,7 +29,7 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <img src="/assets/img/tsundereidol-portrait.png" />
+    <img src="/assets/img/tsundereidol-pic.png" />
   </div>
   <div class="caption caption-num4">
     Tsundere Idol
@@ -39,7 +39,7 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <img src="/assets/img/elfbreedingfarm-portrait.jpg" />
+    <img src="/assets/img/elfbreedingfarm-pic.jpg" />
   </div>
   <div class="caption caption-num4">
     Elf Breeding Farm

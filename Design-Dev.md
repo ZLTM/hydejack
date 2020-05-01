@@ -9,7 +9,7 @@ noindex: true
 <div class="image-container image-container-num4">
   <div class="image image-num4">
     <a href="/about">
-      <img src="/assets/img/sune-portrait.png" />
+      <img src="/assets/img/sune-pic.png" />
     </a>
   </div>
   <div class="caption caption-num4">
@@ -21,7 +21,7 @@ noindex: true
 <div class="image-container image-container-num4">
   <div class="image image-num4">
     <a href="/about">
-      <img src="/assets/img/incomplete_vessel-portrait.jpg" />
+      <img src="/assets/img/incomplete_vessel-pic.jpg" />
     </a>
   </div>
   <div class="caption caption-num4">
@@ -32,7 +32,7 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <img src="/assets/img/trip_simulator-portrait.jpg" />
+    <img src="/assets/img/trip_simulator-pic.jpg" />
   </div>
   <div class="caption caption-num4">
     Trip Simulator
@@ -42,7 +42,7 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <img src="/assets/img/takiruna-portrait.png" />
+    <img src="/assets/img/takiruna-pic.png" />
   </div>
   <div class="caption caption-num4">
     Taki Runa
@@ -52,7 +52,7 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <img src="/assets/img/arg_ball-portrait.png" />
+    <img src="/assets/img/arg_ball-pic.png" />
   </div>
   <div class="caption caption-num4">
     Roll An ARG Ball
