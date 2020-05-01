@@ -1,2 +1,51 @@
 // You can add CSS rules here that will be inlined into each document.
 body { background-color: #1F1B18; }
+h1{color: #B37F2C; }
+a{color: #B37F2C; }
+p{color: #D2D2D2; }
+td{color: #D2D2D2; }
+article{color: #D2D2D2; }
+description{color: #D2D2D2; }
+h2{color: #D2D2D2; }
+
+html {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+  }
+
+  .image-container {
+
+  }
+  .image {
+    background: #444;
+    z-index: 1;
+    transition: all .5s;
+  }
+  .caption {
+    display:block;
+    margin:auto;
+    width: 600px;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgba(0,0,0,.8);
+    z-index: 2;
+    font-weight: 300;
+    transition: all .5s;
+  }
+  .image-container-num4:hover .image-num4 {
+    transform: scale(1.2) rotate(-5deg);
+  }
+  .image-container-num4:hover .caption-num4 {
+    transform: translateY(-100%);
+  }
+  .break {
+    display: none;
+  }

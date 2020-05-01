@@ -48,7 +48,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Home
     url:               /example/
   - title:             Design/Dev
     url:               /Design-Dev/
