@@ -49,13 +49,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Home
-    url:               /example/
+    url:               /index/
   - title:             Design/Dev
     url:               /Design-Dev/
   - title:             Translations
     url:               /Translations/
-  - title:             About
-    url:               /about/
+  - title:             Contact
+    url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
