@@ -2,12 +2,14 @@
 layout: post
 title: Translations
 noindex: true
+description: >
+  Games translation using Japanese, English, and Spanish
 ---
 <p>Games translations made using Japanese, English, and Spanish.</p>
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <a href="/about">
+    <a href="../translation/harem-guild">
       <img src="/assets/img/haremguild-pic.jpg" />
     </a>
   </div>
@@ -19,7 +21,9 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <img src="/assets/img/wildromance-pic.jpg" />
+    <a href="../translation/wild-romance">
+      <img src="/assets/img/wildromance-pic.jpg" />
+    </a>
   </div>
   <div class="caption caption-num4">
     Wild Romance
@@ -29,7 +33,9 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <img src="/assets/img/tsundereidol-pic.png" />
+    <a href="../translation/tsundere-idol">
+      <img src="/assets/img/tsundereidol-pic.png" />
+    </a>
   </div>
   <div class="caption caption-num4">
     Tsundere Idol
