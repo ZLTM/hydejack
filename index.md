@@ -48,7 +48,7 @@ Abaroa Bolivian game awards.
       <ul>      
         <li><span>Automation engineer</span><small>Processmaker</small><small>Jun 2018 - Now</small></li>
 
-        <li><span>Games Translator</span><small>Project Gamer Japones</small><small>Jun 2017 - Now</small></li>
+        <li><span>Games Translator</span><small>Project Gamer Japones</small><small>Jun 2016 - Now</small></li>
 
         <li><span>Co-founder, organizer</span><small>Bolivian Videogames Asosiation (ABV)</small><small>Jan 2016 - Jun 2018</small></li>        
       </ul>
@@ -59,7 +59,7 @@ Abaroa Bolivian game awards.
       <ul>
         <li><span>Systems Engineer</span><small>UCB</small><small>Jan 2015 - Now</small></li>
 
-        <li><span>Japanese</span><small>Gakou</small><small>Jun 2013 - Jun 2014</small></li>
+        <li><span>Japanese</span><small>Gakou</small><small>Jan 2013 - Dec 2013</small></li>
       </ul>
     </div>
 
