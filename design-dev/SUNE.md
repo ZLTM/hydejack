@@ -32,10 +32,4 @@ SUNE is my first experience creating a visualnovel, for this I used Fungus, an a
         <img class="game-social" src="/assets/img/itch-small.png"/>
     </a>
   </li>
-
-  <li>
-    <a href="https://zltm.itch.io/sune" target="_blank">
-        <img class="game-social" src="/assets/img/youtube-small.jpg"/>
-    </a>
-  </li>
 </ul>
