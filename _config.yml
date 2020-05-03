@@ -49,7 +49,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Home
-    url:               /index/
+    url:               /
   - title:             Design/Dev
     url:               /Design-Dev/
   - title:             Translations
