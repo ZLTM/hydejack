@@ -45,7 +45,7 @@ noindex: true
   <div class="image image-num4">
     <a href="../translation/elf-breeding-farm">
       <img src="/assets/img/elfbreedingfarm-pic.jpg" />
-    </a>git status
+    </a>
   </div>
   <div class="caption caption-num4">
     Elf Breeding Farm
