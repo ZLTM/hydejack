@@ -12,7 +12,7 @@ image: /assets/img/square.png
 Abaroa Bolivian game awards.
 {:.figure}
 
-> You can also download my resume as a [PDF](assets/David_Revilla-reume.pdf)
+> You can also download my resume as a [PDF](assets/David_Revilla-resume.pdf)
 
 {:.lead}
 <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0" />
