@@ -51,9 +51,9 @@ menu:
   - title:             Home
     url:               /
   - title:             Design/Dev
-    url:               /Design-Dev/
+    url:               /design-dev/
   - title:             NSFW Translations
-    url:               /Translations/
+    url:               /translations/
   - title:             Contact
     url:               /contact/
 
