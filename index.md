@@ -12,21 +12,10 @@ image: /assets/img/square.png
 Abaroa Bolivian game awards.
 {:.figure}
 
-As a developer I'm interested in creating intuitive, original and memorable experiences for the users, that's the reason why I specialize in video games design, development and translation, disciplines in which I have worked with very talented people and managed to get our products covered by the press and into national contests.
-
-When I'm not working I'm interested in interacting and learning from different cultures, their legends, and their stories, experimenting in the kitchen and consume every kind of media.
-
-Now I'm working as a freelancer I'm especially interested in working Abroad so I can keep learning from the best.
-
-If you are interested in my work (or want to talk about the multiculturalism in Bolivia) please contact me :)
-
-> You can also download my resume on a PDF.
+> You can also download my resume as a [PDF](assets/David_Revilla-reume.pdf)
 
 {:.lead}
-<head>
-  <link rel="stylesheet" type="text/css" href="_sass/resume.scss">
-</head>
-
+<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0" />
 <div class="resume">
   <div class="base">
     <div class="profile">
@@ -40,7 +29,15 @@ If you are interested in my work (or want to talk about the multiculturalism in 
       </div>
     </div>
     <div class="about">
-      <h3>About Me</h3>I'm a game creator mostly interested in narrative driven experiences, with experience in design, development, and translation.
+      <h3>About Me</h3>
+        <p>I’m mostly interested in games as narrative experiences like adventure games and visual novels.
+        </p>
+        <p>
+        When I’m not working I’m interested in interacting and learning from different cultures, their legends, and their stories, experimenting in the kitchen and consuming every kind of media.
+        </p>
+        <p>
+        If you are like in my work (or want to talk about the multiculturalism in Bolivia) please contact me :).
+        </p>
     </div>
 
 
@@ -48,90 +45,179 @@ If you are interested in my work (or want to talk about the multiculturalism in 
   <div class="func">
     <div class="work">
       <h3><i class="fa fa-briefcase"></i>Experience</h3>
-      <ul>
-        <li><span>Technical Consultant -<br>Web Design</span><small>Fiserv</small><small>Apr 2018 - Now</small></li>
-        <li><span>Web Designer</span><small>Lynden</small><small>Jan 2018 - Apr 2018</small></li>
-        <li><span>Intern - Web Design</span><small>Lynden</small><small>Aug 2017 - Dec 2017</small></li>
+      <ul>      
+        <li><span>Automation engineer</span><small>Processmaker</small><small>Jun 2018 - Now</small></li>
+
+        <li><span>Games Translator</span><small>Project Gamer Japones</small><small>Jun 2017 - Now</small></li>
+
+        <li><span>Co-founder, organizer</span><small>Bolivian Videogames Asosiation (ABV)</small><small>Jan 2016 - Jun 2018</small></li>        
       </ul>
     </div>
+
     <div class="edu">
       <h3><i class="fa fa-graduation-cap"></i>Education</h3>
       <ul>
-        <li><span>Bachelor of Science<br>Web Design and Development</span><small>BYU-Idaho</small><small>Jan. 2016 - Apr. 2018</small></li>
-        <li><span>Computer Science</span><small>Edmonds Community College</small><small>Sept. 2014 - Dec. 2015</small></li>
-        <li><span>High School</span><small>Henry M. Jackson High School</small><small>Jan. 2013 - Jun. 2015</small></li>
+        <li><span>Systems Engineer</span><small>UCB</small><small>Jan 2015 - Now</small></li>
+
+        <li><span>Japanese</span><small>Gakou</small><small>Jun 2013 - Jun 2014</small></li>
       </ul>
     </div>
-    <div class="skills-prog">
+
+    <div class="skills-soft">
+      <h3><i class="fas fa-code"></i>Programming Skills</h3>
+      <center>
+      <ul>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="45"></circle>
+            <circle class="cbar" cx="50" cy="50" r="45"></circle>
+          </svg><span>C#</span><small></small>
+        </li>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="35"></circle>
+            <circle class="cbar" cx="50" cy="50" r="35"></circle>
+          </svg><span>Python</span><small></small>
+        </li>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="30"></circle>
+            <circle class="cbar" cx="50" cy="50" r="30"></circle>
+          </svg><span>Java</span><small></small>
+        </li>
+
+      </ul>
+      </center>
+    </div>
+
+    <div class="skills-soft">
+      <h3><i class="fas fa-code"></i>Software Skills</h3>
+      <center>
+      <ul>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="45"></circle>
+            <circle class="cbar" cx="50" cy="50" r="45"></circle>
+          </svg><span>Unity</span><small></small>
+        </li>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="40"></circle>
+            <circle class="cbar" cx="50" cy="50" r="40"></circle>
+          </svg><span>Excel</span><small></small>
+        </li>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="40"></circle>
+            <circle class="cbar" cx="50" cy="50" r="40"></circle>
+          </svg><span>Sketchup</span><small></small>
+        </li>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="40"></circle>
+            <circle class="cbar" cx="50" cy="50" r="40"></circle>
+          </svg><span>Fungus</span><small></small>
+        </li>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="45"></circle>
+            <circle class="cbar" cx="50" cy="50" r="45"></circle>
+          </svg><span>Hack&Plan</span><small></small>
+        </li>
+
+      </ul>
+      </center>
+    </div>
+    
+    <div class="skills-soft">
+      <h3><i class="fas fa-code"></i>Languages</h3>
+      <center>
+      <ul>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="45"></circle>
+            <circle class="cbar" cx="50" cy="50" r="45"></circle>
+          </svg><span>Spanish</span><small></small>
+        </li>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="45"></circle>
+            <circle class="cbar" cx="50" cy="50" r="45"></circle>
+          </svg><span>English</span><small></small>
+        </li>
+
+        <li>
+          <svg viewbox="0 0 100 100">
+            <circle cx="50" cy="50" r="30"></circle>
+            <circle class="cbar" cx="50" cy="50" r="30"></circle>
+          </svg><span>Japanese</span><small></small>
+        </li>
+
+      </ul>
+      </center>
+    </div>
+
+
+    <!-- <div class="skills-prog">
       <h3><i class="fas fa-code"></i>Programming Skills</h3>
       <ul>
+
         <li data-percent="95"><span>HTML5</span>
           <div class="skills-bar">
             <div class="bar"></div>
           </div>
         </li>
+
         <li data-percent="90"><span>CSS3 & SCSS</span>
           <div class="skills-bar">
             <div class="bar"></div>
           </div>
         </li>
+
         <li data-percent="60"><span>JavaScript</span>
           <div class="skills-bar">
             <div class="bar"></div>
           </div>
         </li>
+
         <li data-percent="50"><span>jQuery</span>
           <div class="skills-bar">
             <div class="bar"></div>
           </div>
         </li>
+
         <li data-percent="40"><span>JSON</span>
           <div class="skills-bar">
             <div class="bar"></div>
           </div>
         </li>
+
         <li data-percent="55"><span>PHP</span>
           <div class="skills-bar">
             <div class="bar"></div>
           </div>
         </li>
+
         <li data-percent="40"><span>MySQL</span>
           <div class="skills-bar">
             <div class="bar"></div>
           </div>
         </li>
+        
       </ul>
-    </div>
-    <div class="skills-soft">
-      <h3><i class="fas fa-bezier-curve"></i>Software Skills</h3>
-      <ul>
-        <li data-percent="90">
-          <svg viewbox="0 0 100 100">
-            <circle cx="50" cy="50" r="45"></circle>
-            <circle class="cbar" cx="50" cy="50" r="45"></circle>
-          </svg><span>Illustrator</span><small></small>
-        </li>
-        <li data-percent="75">
-          <svg viewbox="0 0 100 100">
-            <circle cx="50" cy="50" r="45"></circle>
-            <circle class="cbar" cx="50" cy="50" r="45"></circle>
-          </svg><span>Photoshop</span><small></small>
-        </li>
-        <li data-percent="85">
-          <svg viewbox="0 0 100 100">
-            <circle cx="50" cy="50" r="45"></circle>
-            <circle class="cbar" cx="50" cy="50" r="45"></circle>
-          </svg><span>InDesign</span><small></small>
-        </li>
-        <li data-percent="65">
-          <svg viewbox="0 0 100 100">
-            <circle cx="50" cy="50" r="45"></circle>
-            <circle class="cbar" cx="50" cy="50" r="45"></circle>
-          </svg><span>Dreamweaver</span><small></small>
-        </li>
-      </ul>
-    </div>
-    <div class="interests">
+    </div> -->
+
+    <!-- <div class="interests">
       <h3><i class="fas fa-star"></i>Interests</h3>
       <div class="interests-items">
         <div class="art"><i class="fas fa-palette"></i><span>Art</span></div>
@@ -140,7 +226,8 @@ If you are interested in my work (or want to talk about the multiculturalism in 
         <div class="music"><i class="fas fa-headphones"></i><span>Music</span></div>
         <div class="games"><i class="fas fa-gamepad"></i><span>Games</span></div>
       </div>
-    </div>
+    </div> -->
+
   </div>
 </div>
 

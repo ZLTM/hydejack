@@ -8,7 +8,7 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <a href="/about">
+    <a href="../design-dev/sune">
       <img src="/assets/img/sune-pic.png" />
     </a>
   </div>
