@@ -7,17 +7,6 @@ td{color: #D2D2D2; }
 article{color: #D2D2D2; }
 h2{color: #D2D2D2; }
 
-html {
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    text-align: center;
-  }
-
   .image-container {
     display: inline-block;
     position: relative;
@@ -88,6 +77,14 @@ $light-pink: #d81b60;
 }
 
 html{
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-align: center;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
