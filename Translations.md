@@ -45,7 +45,9 @@ description: >
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <img src="/assets/img/elfbreedingfarm-pic.jpg" />
+    <a href="../translation/elf-breeding-farm">
+      <img src="/assets/img/elfbreedingfarm-pic.jpg" />
+    </a>
   </div>
   <div class="caption caption-num4">
     Elf Breeding Farm
