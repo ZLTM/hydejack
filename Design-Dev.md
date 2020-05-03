@@ -2,11 +2,9 @@
 layout: post
 title: Design/Dev
 noindex: true
-description: >
-  Games I designed / programmed
 ---
 
-<p>Games that I helped to create.</p>
+<p>Games that I made.</p>
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">

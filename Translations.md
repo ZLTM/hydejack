@@ -2,8 +2,6 @@
 layout: post
 title: Translations
 noindex: true
-description: >
-  Games translation using Japanese, English, and Spanish
 ---
 <p>Games translations made using Japanese, English, and Spanish.</p>
 
@@ -47,7 +45,7 @@ description: >
   <div class="image image-num4">
     <a href="../translation/elf-breeding-farm">
       <img src="/assets/img/elfbreedingfarm-pic.jpg" />
-    </a>
+    </a>git status
   </div>
   <div class="caption caption-num4">
     Elf Breeding Farm
