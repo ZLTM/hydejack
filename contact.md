@@ -6,293 +6,115 @@ image: /assets/img/square.png
 ---
 
 <style>
-body {
-  margin: 0;
-  padding: 0;
-  
-}
-
+//
 #contact {
-  width: 100%;
-  height: 100vh;
-  background-color: #111;
-  overflow: hidden;
-  padding-bottom: 200px;
+	max-width: 970px;
+	margin: auto;
 }
 
-.section-header {
-  text-align: center;
-  margin: 0 auto;
-  padding-top: 50px;
-  margin-bottom: 50px;
-  font: 300 60px 'Oswald', sans-serif;
-  letter-spacing: 6px;
-  color: #fff;
-  margin-bottom: 25px;
-}
-
-.contact-wrapper {
-  margin: 0 auto;
-  padding-top: 20px;
-  position: relative;
-}
-
-/* Begin Left Contact Page */
-.form-horizontal {
-  font-family: 'Lato';
-  font-weight: 400;
-}
-
-.form-control, textarea {
-  background-color: #111;
-  color: #fff;
-  letter-spacing: 1px;
-}
-
-.send-button {
-  margin-top: 15px;
-  height: 34px;
-  width: 400px;
-  overflow: hidden;
-  transition: all .2s ease-in-out;
-}
-
-.button {
-  width: 400px;
-  height: 34px;
-  transition: all .2s ease-in-out;
-}
-
-.send-text {
-  display: block;
-  margin-top: 10px;
-  font: 300 14px 'Lato', sans-serif;
-  letter-spacing: 2px;
-}
-
-.button:hover {
-  transform: translate3d(0px, -29px, 0px);
-}
-
-/* Begin Right Contact Page */
-.direct-contact-container {
-  float: right;
-  margin-top: 5px;
-}
-
-/* Location, Phone, Email Section */
-.contact-list {
-  list-style-type: none;
-  margin-left: -30px;
-  padding-right: 20px;
-}
-
-.list-item {
-  line-height: 4;
-  color: #aaa;
-}
-
-.contact-text {
-  font: 300 18px 'Lato', sans-serif;
-  letter-spacing: 1.9px;
-  color: #bbb;
-}
-
-.place {
-  margin-left: 62px;
-}
-
-.phone {
-  margin-left: 56px;
-}
-
-.gmail {
-  margin-left: 53px;
-}
-
-.contact-text a {
-  color: #bbb;
-  text-decoration: none;
-  transition-duration: 0.2s;
-}
-
-.contact-text a:hover {
-  color: #fff;
-  text-decoration: none;
+#contact p {
+	text-align: center;
+	font-family: helvetica, arial;
+	font-size: 16px;
+	font-weight: 200;
+  color: white;
 }
 
 
-/* Social Media Icons */
-.social-media-list {
-  position: relative;
-  font-size: 2.3rem;
-  text-align: center;
-  width: 100%;
+#card{
+background: white;
+	margin: auto;
+	height: 400px;
+	width: 650px;
+	border: solid 3px black;
+	position: relative;
+	
 }
 
-.social-media-list li a {
-  color: #fff;
+#leftbox{
+	float: left;
+	width: 49%;
+	overflow: hidden;
+	
 }
 
-.social-media-list li {
-  position: relative; 
-  top: 0;
-  left: -20px;
-  display: inline-block;
-  height: 70px;
-  width: 70px;
-  margin: 10px auto;
-  line-height: 70px;
-  border-radius: 50%;
-  color: #fff;
-  background-color: rgb(27,27,27);
-  cursor: pointer; 
-  transition: all .2s ease-in-out;
+textarea {
+	margin: 20px;
+	border:none;
+	resize: none; 
+	font-size: 12px;
+font-family: helvetica, arial;
 }
 
-.social-media-list li:after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 70px;
-  height: 70px;
-  line-height: 70px;
-  border-radius: 50%;
-  opacity: 0;
-  box-shadow: 0 0 0 1px #fff;
-  transition: all .2s ease-in-out;
+
+
+#rightbox {
+	float: right;
+	width: 50%;
+
 }
 
-.social-media-list li:hover {
-  background-color: #fff; 
+
+#send input{
+	float: right;
+	display: block;
+	margin: 20px;
+	height: 90px;
+	width: 70px;
+	background-color: #404040;
+	color: white;
+	border-style: none;
+	border-radius: 5px;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: helvetica, arial;
+	letter-spacing: 2px;
+
 }
 
-.social-media-list li:hover:after {
-  opacity: 1;  
-  transform: scale(1.12);
-  transition-timing-function: cubic-bezier(0.37,0.74,0.15,1.65);
+.line {
+	margin-top: 10%;
+	height: 340px;
+	border-left: solid 1px black;
 }
 
-.social-media-list li:hover a {
-  color: #111;
+#input {
+	padding-top: 180px;
 }
 
-.copyright {
-  font: 200 14px 'Oswald', sans-serif;
-  color: #555;
-  letter-spacing: 1px;
-  text-align: center;
-}
-
-hr {
-  border-color: rgba(255,255,255,.8); ;
-}
-
-/* Begin Media Queries*/
-@media screen and (max-width: 760px) {
-    #contact {
-        height: 1000px;
-    }
-  .section-header {
-    font-size: 65px;
-  }
-  .direct-contact-container, .form-horizontal {
-    float: none;
-    margin: 10px auto;
-  }  
-  .direct-contact-container {
-    margin-top: 60px;
-  }    
-  .social-media-list li {
-    height: 60px;
-    width: 60px;
-    line-height: 60px;
-  }
-  .social-media-list li:after {
-    width: 60px;
-    height: 60px;
-    line-height: 60px;
-  }
-}
-
-@media screen and (max-width: 569px) {
-  #contact {
-    height: 1200px;
-    }
-  .section-header{
-    font-size: 50px;
-  }
-  .direct-contact-container, .form-wrapper {
-    float: none;
-    margin: 0 auto;
-  }  
-  .form-control, textarea {
-    margin: 0 auto;
-  }
-  
-  .name, .email, textarea {
-    width: 280px;
-  } 
-  .direct-contact-container {
-    margin-top: 60px;
-  }  
-  .social-media-list {
-    left: 0;
-  }
-  .social-media-list li {
-    height: 55px;
-    width: 55px;
-    line-height: 55px;
-    font-size: 2rem;
-  }
-  .social-media-list li:after {
-    width: 55px;
-    height: 55px;
-    line-height: 55px;
-  }
-  
-}
-
-@media screen and (max-width: 410px) {
-  .send-button {
-    width: 99%;
-  }
+#input input {
+	margin: 20px 20px 40px 30px;
+	display: block;
+	width: 265px;
+	font-size: 16px;
+	border: none;
+	border-bottom: dotted 2px black;
+font-family: helvetica;
 }
 </style>
-<section id="contact">
-  
-  
-  <div class="contact-wrapper">
-    
-    <form class="form-horizontal" role="form" method="post" action="contact.php">
-       
-      <div class="form-group">
-        <div class="col-sm-12">
-          <input type="text" class="form-control" id="name" placeholder="NAME" name="name" value="">
-        </div>
-      </div>
+<body>
+<div id="contact">
+      <p>I'd love to get a message from you!</p>
 
-      <div class="form-group">
-        <div class="col-sm-12">
-          <input type="email" class="form-control" id="email" placeholder="EMAIL" name="email" value="">
-        </div>
-      </div>
+      <div id="card">
+        <form action="mailto:jdavidrevillad@gmail.com.com">
+          <div id="leftbox">
+            <textarea name="message" COLS="35" ROWS="16" placeholder="Your message" required></textarea>
 
-      <textarea class="form-control" rows="10" placeholder="MESSAGE" name="message"></textarea>
-      
-      <button class="btn btn-primary send-button" id="submit" type="submit" value="SEND">
-        <div class="button">
-          <i class="fa fa-paper-plane"></i><span class="send-text">SEND</span>
-        </div>
-      
-      </button>
-      
-    </form>
-    
-  </div>
-  
-</section>  
-  
-  
-  
+          </div>
+          <div id="rightbox">
+            <div id="send">
+              <input class="sendbutton" type="submit" value="Send">
+            </div>
+            <div class="line">
+              <div id="input">
+
+                <input type="text" name="name" placeholder="Name">
+                <input type="email" name="email" placeholder="E-mail" required>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+		</div>
+</body>
