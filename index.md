@@ -12,7 +12,7 @@ image: /assets/img/square.png
 Abaroa Bolivian game awards.
 {:.figure}
 
-> <a href="assets/David_Revilla-resume.pdf" class="image fit">pdf</a>
+> <a href="assets/David_Revilla-resume.pdf" target="_blank" class="image fit">Download my resume as a PDF</a>
 
 {:.lead}
 <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0" />
