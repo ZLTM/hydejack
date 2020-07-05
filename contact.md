@@ -8,7 +8,7 @@ image: /assets/img/square.png
 <style>
 //
 #contact {
-	max-width: 970px;
+	max-width: 100%;
 	margin: auto;
 }
 
@@ -25,7 +25,7 @@ image: /assets/img/square.png
 background: white;
 	margin: auto;
 	height: 400px;
-	width: 650px;
+	width: 100%;
 	border: solid 3px black;
 	position: relative;
 	
