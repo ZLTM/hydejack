@@ -7,8 +7,15 @@ h1 {
 	color: #b37f2c
 }
 
+#blocklink {
+	text-decoration: none;
+	display: block;
+	transition-duration: .3s
+}
+
 a {
-	color: #b37f2c
+	color: #b37f2c;
+	transition-duration: .3s
 }
 
 p {
@@ -106,13 +113,6 @@ html {
 	transition: .5s;
 	background: #fff;
 	cursor: default
-}
-
-a {
-	text-decoration: none;
-	color: #fff;
-	display: block;
-	transition-duration: .3s
 }
 
 table {
@@ -286,10 +286,7 @@ h3 {
 	vertical-align: middle
 }
 
-.resume .base .follow .box a {
-	display: inline-block;
-	vertical-align: text-bottom
-}
+
 
 .resume .base .follow .box a:hover i {
 	background: #fdd835;

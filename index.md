@@ -5,13 +5,11 @@ cover: true
 image: /assets/img/square.png
 ---
 
-> Game designer, programmer, translator
-
 ![Screenshot](/assets/img/abaroa.jpg){:.lead srcset="/assets/img/abaroa.jpg 1920w, /assets/img/abaroa.jpg 960w, /assets/img/abaroa.jpg 480w" data-width="1920" data-height="1080"}
 Abaroa Bolivian game awards
 {:.figure}
 
-> <center><a href="assets/David_Revilla-resume.pdf" target="_blank" class="image fit">Download my resume as a PDF</a></center>
+> <center><a id="blocklink" href="assets/David_Revilla-resume.pdf" target="_blank" class="image fit">Download my resume as a PDF</a></center>
 
 <div class="base">
   <div class="profile">
@@ -21,7 +19,7 @@ Abaroa Bolivian game awards
     </div>
     <div class="info">
       <h1 class="name">David Revilla</h1>
-      <h2 class="job">Game designer, developer, translator</h2>
+      <h2 class="job">Narrative games developer</h2>
     </div>
   </div>
 <br>
@@ -37,7 +35,7 @@ Abaroa Bolivian game awards
 
   <div class="about">
     <center><h3>About Me</h3></center>
-      <p>I’m mostly interested in games as narrative experiences like adventure games and visual novels.
+      <p>I’m mostly interested in games as narrative experiences from adventure games to visual novels, point-and-click, and puzzles as well as evocative experiences.
       </p>
       <p>
       When I’m not working I’m interested in interacting and learning from different cultures, their legends, their stories, and the occult in general, I also like to experiment in the kitchen and consuming every kind of media.
@@ -54,6 +52,7 @@ Abaroa Bolivian game awards
         </p>
         <p>
         Working as a translator I was able to improve my language and learn avout games localization, as a result i was also able to study games writting, field in wich I'm now very interested.
+
         </p>
 
       <b>Co-founder, organizer - Bolivian Videogames Asosiation (ABV) 2016 - 2018</b>
@@ -61,6 +60,7 @@ Abaroa Bolivian game awards
         </p>
         <p>
         Working on the ABV has been very fulfilling, I was able to help a community grow while helping new members giving talks on game design and narrative as I kept working on my own projects for the different events we held.
+
         </p>
 
       <b>API Automation engineer - Jalasoft 2020 - Now</b>
@@ -68,6 +68,7 @@ Abaroa Bolivian game awards
         </p>
         <p>
         In Jalasoft I am able to work directly with important clients, the quality in the code is constantly under review and the features implemented are a challenge on theyself.
+
         </p>
 
       <b>GUI Automation engineer - Processmaker 2018 - 2020</b>
@@ -75,6 +76,7 @@ Abaroa Bolivian game awards
         </p>
         <p>
         While on processmaker I helped to implement one automation framework in java and developed other two, one of them also in java and the other one in python, this last one also works together with a companion web-app that allows the employees to run tests with different configurations even when they dont have technical knowledge.
+        
         </p>
   </div>
 

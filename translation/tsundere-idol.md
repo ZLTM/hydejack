@@ -29,7 +29,7 @@ image: /assets/img/tsundereidol-portrait.png
   <li><b id="notice">Languages</b>: English, Spanish.</li>
 </ul>
 
-<p>Tsundere idol was an emergency project I got some days before the deathline due to an emergency, using what i learned on previous projects i was able to deliver the chapters yet to be translated before the due date leaving time for the reviser to ask for the necessary corrections.</p>
+<p>Tsundere idol was an emergency commission I got some days before the deathline due to an emergency, using what i learned on previous projects i was able to deliver the chapters yet to be translated before the due date leaving time for the reviser to ask for the necessary corrections.</p>
 
 <div>
   <a class="imgclass" href="https://store.steampowered.com/app/795160/Tsundere_Idol/" target="_blank">
@@ -39,4 +39,3 @@ image: /assets/img/tsundereidol-portrait.png
     <img align="right" class="game-social" src="/assets/img/youtube-small.jpg"/>
   </a>
 </div>
-

@@ -8,8 +8,7 @@ title: Trip Simulator
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
-description: >
-  game made for the #GGJ2017
+description: Game made for GGJ 2017.
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -22,14 +21,20 @@ image: /assets/img/trip_simulator-portrait.jpg
 ![Screenshot](/assets/img/trip_simulator-portrait.jpg){:.lead srcset="/assets/img/trip_simulator-portrait.jpg 1920w, /assets/img/trip_simulator-portrait.jpg 960w, /assets/img/trip_simulator-portrait.jpg 480w" data-width="1920" data-height="1080"}
 {:.figure}
 
-> Trip Simulator was created for the Global Game Jam 2017, the intention here was to make the user focus on the sound n a 3D space.
-
-In this game I had the chance to experiment with Fmod by working side to side with the sound designer.
+> Game made for GGJ 2017.
 
 <ul>
-  <li>
-    <a href="https://github.com/ZLTM/TripSimulator" target="_blank">
-        <img class="game-social" src="/assets/img/github-small.jpg"/>
-    </a>
-  </li>
+  <li><b id="notice">Platform</b>: PC.</li>
+  <li><b id="notice">Tools</b>: Unity, Fmod, C#.</li>
 </ul>
+
+<p>Trip sim is a 3D game in wich the player needs to follow the sound of music to scape from the woods.</p>
+
+<p>Trip sim needed to have a clear audio so I learned Fmod to implement the music in an easier way while keeping the tune clear for the player.</p>
+
+<div>
+  <a class="imgclass" href="https://github.com/ZLTM/TripSimulator" target="_blank">
+    <img align="right" class="game-social" src="/assets/img/github-small.jpg"/>
+  </a>
+</div>
+

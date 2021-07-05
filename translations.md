@@ -7,24 +7,24 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <a href="../translation/harem-guild">
-      <img src="/assets/img/haremguild-pic.jpg" />
-    </a>
-  </div>
-  <div class="caption caption-num4">
-    Harem Guild
-  </div>
-  <br class="break">
-</div><br class="break">
-
-<div class="image-container image-container-num4">
-  <div class="image image-num4">
     <a href="../translation/wild-romance">
       <img src="/assets/img/wildromance-pic.jpg" />
     </a>
   </div>
   <div class="caption caption-num4">
     Wild Romance
+  </div>
+  <br class="break">
+</div><br class="break">
+
+<div class="image-container image-container-num4">
+  <div class="image image-num4">
+    <a href="../translation/elf-breeding-farm">
+      <img src="/assets/img/elfbreedingfarm-pic.jpg" />
+    </a>
+  </div>
+  <div class="caption caption-num4">
+    Elf Breeding Farm
   </div>
   <br class="break">
 </div><br class="break">
@@ -43,12 +43,12 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <a href="../translation/elf-breeding-farm">
-      <img src="/assets/img/elfbreedingfarm-pic.jpg" />
+    <a href="../translation/harem-guild">
+      <img src="/assets/img/haremguild-pic.jpg" />
     </a>
   </div>
   <div class="caption caption-num4">
-    Elf Breeding Farm
+    Harem Guild
   </div>
   <br class="break">
 </div><br class="break">

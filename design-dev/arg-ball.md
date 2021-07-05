@@ -8,8 +8,7 @@ title: Roll An ARG Ball
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
-description: >
-  Augmented reality physics game
+description: Personal project to learn more about ARG.
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -22,14 +21,20 @@ image: /assets/img/arg_ball-portrait.png
 ![Screenshot](/assets/img/arg_ball-portrait.png){:.lead srcset="/assets/img/arg_ball-portrait.png 1920w, /assets/img/arg_ball-portrait.png 960w, /assets/img/arg_ball-portrait.png 480w" data-width="1920" data-height="1080"}
 {:.figure}
 
-> Roll An ARG Ball uses a target to create an interactable virtual environment visible through a phone camera.
-
-Using Qualcomm Roll An ARG Ball creates a virtual maze and a ball, the player is then able to move the maze to get the ball out.
+> Personal project to learn more about ARG.
 
 <ul>
-  <li>
-    <a href="https://github.com/ZLTM/RollA-ARG-Ball" target="_blank">
-        <img class="game-social" src="/assets/img/github-small.jpg"/>
-    </a>
-  </li>
+  <li><b id="notice">Platform</b>: PC.</li>
+  <li><b id="notice">Tools</b>: Unity, Qualcomm, C#.</li>
 </ul>
+
+<p>Roll An ARG Ball uses a target to create an interactable virtual environment visible through a phone camera, using a pappersheet with the target a virtual maze is created and a ball spawned, the player is then able to tak the ball out of the maze by tilting the papper sheet.</p>
+
+<p>In this project I learned about ARG development on Unity and the current limitations, specially the phisics system wich i had to customize in order for the ball to roll as it was being pulled by gravity.</p>
+
+<div>
+  <a class="imgclass" href="https://github.com/ZLTM/RollA-ARG-Ball" target="_blank">
+    <img align="right" class="game-social" src="/assets/img/github-small.jpg"/>
+  </a>
+</div>
+
