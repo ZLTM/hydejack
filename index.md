@@ -36,7 +36,7 @@ Abaroa Bolivian game awards
 <br>
 
   <div class="about">
-    <h3>About Me</h3>
+    <center><h3>About Me</h3></center>
       <p>I’m mostly interested in games as narrative experiences like adventure games and visual novels.
       </p>
       <p>
@@ -48,7 +48,7 @@ Abaroa Bolivian game awards
   </div>
 
   <div>
-    <h3>Experience</h3>
+    <center><h3>Experience</h3></center>
       <b>Games Translator - Freelance 2016 - Now</b>
         <p>As a translator I work with Spanish, English, and some Japanese, my clients include Cherrry Kiss, Miel, Norn, and several others.
         </p>
