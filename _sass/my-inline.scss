@@ -616,3 +616,9 @@ h3 {
 	width: 60px;
 	height: 60px
 }
+
+.imgclass{
+    background:url("your_image_path.png") no-repeat 0 0;  // set to the background-position Acroding to your background Image
+display:inline-block;
+vertical-align:top;
+    }

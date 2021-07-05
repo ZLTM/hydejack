@@ -24,12 +24,15 @@ image: /assets/img/elfbreedingfarm-portrait.jpg
 
 > Game translation made for Cherry Kiss and Norn / Miel.
 
-Translation made from English to Japanese, now available on steam.
-
 <ul>
-  <li>
-    <a href="https://store.steampowered.com/app/1233710/Elf_Breeding_Farm/" target="_blank">
-        <img class="game-social" src="/assets/img/steam-small.jpg"/>
-    </a>
-  </li>  
+  <li><b id="notice">Platform</b>: PC.</li>
+  <li><b id="notice">Languages</b>: English, Spanish.</li>
 </ul>
+
+<p>Elf Breeding Farm was my first solo project for an important client, while working on it I complied with strict time schedules and worked closer than ever with my revisor, the project was completed on time and without any complaints.</p>
+
+<div>
+  <a class="imgclass" href="https://store.steampowered.com/app/1233710/Elf_Breeding_Farm/" target="_blank">
+    <img align="right" class="game-social" src="/assets/img/steam-small.jpg"/>
+  </a>
+</div>

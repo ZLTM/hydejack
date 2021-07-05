@@ -24,19 +24,18 @@ image: /assets/img/haremguild-portrait.jpg
 
 > Game translation made for Cherry Kiss and Norn / Miel.
 
-Translation made from English to Japanese, now available on steam.
-
 <ul>
-  <li>
-    <a href="https://store.steampowered.com/app/803040/Master_of_the_Harem_Guild/" target="_blank">
-        <img class="game-social" src="/assets/img/steam-small.jpg"/>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://www.youtube.com/watch?v=R8arCtvKKO8&t" target="_blank">
-        <img class="game-social" src="/assets/img/youtube-small.jpg"/>
-    </a>
-  </li>
-  
+  <li><b id="notice">Platform</b>: PC.</li>
+  <li><b id="notice">Languages</b>: English, Spanish.</li>
 </ul>
+
+<p>Harem Guild was my first big project as a translator, with it, and the help of my reviser, I learned how to make a faitful translation while keeping the text clear for the international reader</p>
+
+<div>
+  <a class="imgclass" href="https://store.steampowered.com/app/803040/Master_of_the_Harem_Guild/"  target="_blank">
+    <img align="right" class="game-social" src="/assets/img/steam-small.jpg"/>
+  </a> 
+  <a class="imgclass" href="https://www.youtube.com/watch?v=R8arCtvKKO8&t" target="_blank">
+    <img align="right" class="game-social" src="/assets/img/youtube-small.jpg"/>
+  </a>
+</div>

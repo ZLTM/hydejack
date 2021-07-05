@@ -24,19 +24,19 @@ image: /assets/img/tsundereidol-portrait.png
 
 > Game translation made for Cherry Kiss and Norn / Miel.
 
-Translation made from English to Japanese, now available on steam.
-
 <ul>
-  <li>
-    <a href="https://store.steampowered.com/app/493450/Wild_Romance/" target="_blank">
-        <img class="game-social" src="/assets/img/steam-small.jpg"/>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://www.youtube.com/watch?v=QZyXCglsapg&t" target="_blank">
-        <img class="game-social" src="/assets/img/youtube-small.jpg"/>
-    </a>
-  </li>
-  
+  <li><b id="notice">Platform</b>: PC.</li>
+  <li><b id="notice">Languages</b>: English, Spanish.</li>
 </ul>
+
+<p>Tsundere idol was an emergency project I got some days before the deathline due to an emergency, using what i learned on previous projects i was able to deliver the chapters yet to be translated before the due date leaving time for the reviser to ask for the necessary corrections.</p>
+
+<div>
+  <a class="imgclass" href="https://store.steampowered.com/app/795160/Tsundere_Idol/" target="_blank">
+    <img align="right" class="game-social" src="/assets/img/steam-small.jpg"/>
+  </a> 
+  <a class="imgclass" href="https://www.youtube.com/watch?v=qQ7uPzxw98o" target="_blank">
+    <img align="right" class="game-social" src="/assets/img/youtube-small.jpg"/>
+  </a>
+</div>
+

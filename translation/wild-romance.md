@@ -24,19 +24,19 @@ image: /assets/img/wildromance-portrait.jpg
 
 > Game translation made for Cherry Kiss and Norn / Miel.
 
-Translation made from English to Japanese, now available on steam.
-
 <ul>
-  <li>
-    <a href="https://store.steampowered.com/app/493450/Wild_Romance/" target="_blank">
-        <img class="game-social" src="/assets/img/steam-small.jpg"/>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://www.youtube.com/watch?v=QZyXCglsapg&t" target="_blank">
-        <img class="game-social" src="/assets/img/youtube-small.jpg"/>
-    </a>
-  </li>
-  
+  <li><b id="notice">Platform</b>: PC.</li>
+  <li><b id="notice">Languages</b>: Japanese, English, Spanish.</li>
 </ul>
+
+<p>Since the english localisation was not fully accepted by our team, Wild Romance was the first project in wich I had to use Japanese as a tool for translation, by consulting the original work together with the English translation the game was correctly localized without any complaint from the client.</p>
+
+<div>
+  <a class="imgclass" href="https://store.steampowered.com/app/493450/Wild_Romance/" target="_blank">
+    <img align="right" class="game-social" src="/assets/img/steam-small.jpg"/>
+  </a> 
+  <a class="imgclass" href="https://www.youtube.com/watch?v=QZyXCglsapg&t" target="_blank">
+    <img align="right" class="game-social" src="/assets/img/youtube-small.jpg"/>
+  </a>
+</div>
+
