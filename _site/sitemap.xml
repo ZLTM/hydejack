@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/example/</loc>
-<lastmod>2020-07-05T18:38:50-04:00</lastmod>
+<lastmod>2021-07-04T21:38:08-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/example/2017-11-23-example-content-ii/</loc>
@@ -11,6 +11,9 @@
 <url>
 <loc>http://localhost:4000/example/2018-06-01-example-content-iii/</loc>
 <lastmod>2018-06-01T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Design-Dev%20copy/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/design-dev/SUNE/</loc>
@@ -53,10 +56,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/David_Revilla-resume.pdf</loc>
-<lastmod>2020-05-03T18:01:37-04:00</lastmod>
+<lastmod>2021-06-30T11:31:46-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/Resume.pdf</loc>
-<lastmod>2020-07-05T18:18:02-04:00</lastmod>
+<lastmod>2021-07-04T19:36:44-04:00</lastmod>
 </url>
 </urlset>
