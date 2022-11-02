@@ -34,6 +34,6 @@ image: /assets/img/jhack-portrait.png
 
 <div>
   <a class="imgclass" href="https://github.com/ZLTM/japanese_teaching_game" target="_blank">
-    <img align="right" class="game-social" src="/assets/img/itch-small.png"/>
+    <img align="right" class="game-social" src="/assets/img/github-small.jpg"/>
   </a>
 </div>
