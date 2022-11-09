@@ -9,7 +9,7 @@ noindex: true
 <div class="image-container image-container-num4">
   <div class="image image-num4">
     <a href="../design-dev/takagi-vn">
-      <img src="/assets/img/takagi-portrait.png" />
+      <img src="/assets/img/takagi-pic.png" />
     </a>
   </div>
   <div class="caption caption-num4">
