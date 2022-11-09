@@ -28,12 +28,13 @@ image: /assets/img/takagi-portrait.png
   <li><b id="notice">Tools</b>: Renpy.</li>
 </ul>
 
-<p>Edutainment game made as a tesis for the undergrad title of systems engineer. Learn basic kanji by solving puzles and translating the correct readings.</p>
+<p>Visual novel in which I participated as part of the programming team, it was my first experience working as a game dev with an international team, I helped with the menu programming using Renpy while coordinating with the artists and other programmers.</p>
 
-<p>Both the translation system and the dialogue systems where made from scratch, the dialogue system allows the writter to input the character name, the position in the screen, the events called during the dialogue, the sprite to be used, and the sentences without needing to edit the code.</p>
+<p>The visual novel is now done and ready to be downloaded in the official web site 
+<a class="imgclass" href="https://takagi-vn-dev.github.io/" target="_blank"> skilled teaser Takagi-san </a>.</p>
 
 <div>
-  <a class="imgclass" href="https://github.com/ZLTM/japanese_teaching_game" target="_blank">
-    <img align="right" class="game-social" src="/assets/img/github-small.jpg"/>
+  <a class="imgclass" href="https://takagi-vn-dev.github.io/" target="_blank">
+    <img align="right" class="game-social" src="/assets/img/takagi-web.jpg"/>
   </a>
 </div>

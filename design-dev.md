@@ -13,7 +13,7 @@ noindex: true
     </a>
   </div>
   <div class="caption caption-num4">
-    Takagi-san fan project
+    Skilled teaser Takagi-san
   </div>
   <br class="break">
 </div><br class="break">
