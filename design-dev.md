@@ -8,8 +8,20 @@ noindex: true
 
 <div class="image-container image-container-num4">
   <div class="image image-num4">
-    <a href="../design-dev/wrong-way">
-      <img src="/assets/img/wrong-way.png" />
+    <a href="../design-dev/takagi-vn">
+      <img src="/assets/img/takagi-portrait.png" />
+    </a>
+  </div>
+  <div class="caption caption-num4">
+    Takagi-san fan VN
+  </div>
+  <br class="break">
+</div><br class="break">
+
+<div class="image-container image-container-num4">
+  <div class="image image-num4">
+    <a href="../design-dev/jhack">
+      <img src="/assets/img/jhack.png" />
     </a>
   </div>
   <div class="caption caption-num4">
