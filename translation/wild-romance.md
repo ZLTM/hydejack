@@ -34,9 +34,6 @@ image: /assets/img/wildromance-portrait.jpg
 <div>
   <a class="imgclass" href="https://store.steampowered.com/app/493450/Wild_Romance/" target="_blank">
     <img align="right" class="game-social" src="/assets/img/steam-small.jpg"/>
-  </a> 
-  <a class="imgclass" href="https://www.youtube.com/watch?v=QZyXCglsapg&t" target="_blank">
-    <img align="right" class="game-social" src="/assets/img/youtube-small.jpg"/>
   </a>
 </div>
 

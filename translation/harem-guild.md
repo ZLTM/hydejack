@@ -34,8 +34,5 @@ image: /assets/img/haremguild-portrait.jpg
 <div>
   <a class="imgclass" href="https://store.steampowered.com/app/803040/Master_of_the_Harem_Guild/"  target="_blank">
     <img align="right" class="game-social" src="/assets/img/steam-small.jpg"/>
-  </a> 
-  <a class="imgclass" href="https://www.youtube.com/watch?v=R8arCtvKKO8&t" target="_blank">
-    <img align="right" class="game-social" src="/assets/img/youtube-small.jpg"/>
   </a>
 </div>
