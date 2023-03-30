@@ -23,6 +23,10 @@ image: /assets/img/jhack-portrait.png
 
 > Project made for the bachelor degree of systems engineer, awarded with a qualification of 100/100, available for reading in spanish at the UCB web site http://www.bibvirtual.ucb.edu.bo:8000/opac/Record/101006186
 
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=5diwIS62Ngg&ab_channel=Nuru">
+</iframe>
+
 <ul>
   <li><b id="notice">Platform</b>: PC.</li>
   <li><b id="notice">Tools</b>: Unity, C#.</li>
