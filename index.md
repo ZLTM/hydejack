@@ -55,9 +55,12 @@ Abaroa Bolivian game awards
     Working on the ABV has been very fulfilling, I was able to help a community grow while helping new members giving talks on game design and narrative as I kept working on my own projects for the different events we held.
     </p>
   <br>
-  <p><b>API Automation engineer - IBM 2020 - Now</b></p>
-    <p>Now working as an automation engineer for the largest software company in Bolivia with important clients arround the globe.<br>
-    In IBM I am able to work directly with important clients, the quality in the code is constantly under review and the features implemented are a challenge on theyself.
+  <p><b>QA Lead - BairesDev 2023 - Now</b></p>
+    <p>Now im working more closely with the planning and design aspects of the QA process, having the chance of broadening my scope on the field.
+  <br>
+  <p><b>API Automation engineer - IBM 2020 - 2023</b></p>
+    <p>At IBM i was able to improve my knowledge on API testing and telemetry, becoming the main tester in said area.<br>
+    I was able to work on a proprietary framework, learning from the experience and the code of several developers, and improving the codebase.
     </p>
   <br>
   <p><b>GUI Automation engineer - Processmaker 2018 - 2020</b></p>
