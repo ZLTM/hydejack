@@ -2,7 +2,7 @@
 layout: about
 title: Contact
 cover: true
-image: /assets/img/square.png
+image: /assets/img/glitchy_favicon.ico
 ---
 
 <style>
