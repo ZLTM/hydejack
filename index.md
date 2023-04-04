@@ -55,7 +55,7 @@ Abaroa Bolivian game awards
     Working on the ABV has been very fulfilling, I was able to help a community grow while helping new members giving talks on game design and narrative as I kept working on my own projects for the different events we held.
     </p>
   <br>
-  <p><b>API Automation engineer - Jalasoft 2020 - Now</b></p>
+  <p><b>API Automation engineer - IBM 2020 - Now</b></p>
     <p>Now working as an automation engineer for the largest software company in Bolivia with important clients arround the globe.<br>
     In Jalasoft I am able to work directly with important clients, the quality in the code is constantly under review and the features implemented are a challenge on theyself.
     </p>
