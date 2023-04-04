@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 cover: true
-image: /assets/img/square.png
+image: /assets/img/glitchy_favicon.ico
 ---
 
 ![Screenshot](/assets/img/abaroa.jpg){:.lead srcset="/assets/img/abaroa.jpg 1920w, /assets/img/abaroa.jpg 960w, /assets/img/abaroa.jpg 480w" data-width="1920" data-height="1080"}
