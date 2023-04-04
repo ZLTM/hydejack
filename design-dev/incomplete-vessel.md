@@ -16,11 +16,6 @@ hide_description: true
 # TODO
 image: /assets/img/incomplete_vessel-portrait.jpg
 ---
-{:.lead}
-
-![Screenshot](/assets/img/incomplete_vessel-portrait.jpg){:.lead srcset="/assets/img/incomplete_vessel-portrait.jpg 1920w, /assets/img/incomplete_vessel-portrait.jpg 960w, /assets/img/incomplete_vessel-portrait.jpg 480w" data-width="1920" data-height="1080"}
-{:.figure}
-
 > Project created for the GGJ 2020.
 <div position="relative" width="100%" padding-bottom="56.25%">
 <iframe position="absolute" top="0" left="0" width="100%" height="100%" border="0" src="https://www.youtube.com/embed/kBi_KUEkvak" allowfullscreen></iframe>
