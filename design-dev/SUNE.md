@@ -23,6 +23,8 @@ image: /assets/img/sune-portrait.png
 
 > Game made for NaNoReno 2020
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kGt6KjqWV7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <ul>
   <li><b id="notice">Platform</b>: PC.</li>
   <li><b id="notice">Tools</b>: Unity, C#, Fungus.</li>

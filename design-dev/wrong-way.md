@@ -23,6 +23,8 @@ image: /assets/img/wrongway-portrait.jpg
 
 > Game made for the SunoFes 2020.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wkzj21OIUnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <ul>
   <li><b id="notice">Platform</b>: PC.</li>
   <li><b id="notice">Tools</b>: Unity, C#, Fungus.</li>
