@@ -19,7 +19,7 @@ Abaroa Bolivian game awards
     </div>
     <div class="info">
       <h1 class="name">David Revilla</h1>
-      <h2 class="job">Narrative games developer</h2>
+      <h2 class="job">Game developer</h2>
     </div>
   </div>
 <br>
