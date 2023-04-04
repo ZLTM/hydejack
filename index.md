@@ -18,7 +18,7 @@ Abaroa Bolivian game awards
       <i class="fas fa-rocket"></i>
     </div>
     <div class="info">
-      <h1 class="name">David Revilla</h1>
+      <h1 class="name">David Revilla (Nuru)</h1>
       <h2 class="job">Narrative games developer</h2>
     </div>
   </div>
