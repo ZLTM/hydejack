@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              David Revilla
+  name:              David Revilla <Nuru>
   email:             jdavidrevillad@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -30,7 +30,7 @@ author1:
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    youtube:         https://www.youtube.com/channel/UCjVML9DJt4dhV4cOOgAOBKw
+    youtube:         https://www.youtube.com/channel/UCRsjbz0KMaUM82ajRpNbKjQ
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
@@ -54,7 +54,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:         zolutr
+    linkedin:         jdrevillad
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
