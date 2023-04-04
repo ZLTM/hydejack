@@ -22,8 +22,8 @@ image: /assets/img/incomplete_vessel-portrait.jpg
 {:.figure}
 
 > Project created for the GGJ 2020.
-<div>
-<iframe aspect-ratio="16 / 9" width="100%" src="https://www.youtube.com/embed/kBi_KUEkvak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div position="relative" width="100%" padding-bottom="56.25%">
+<iframe position="absolute" top="0" left="0" width="100%" height="100%" border="0" src="https://www.youtube.com/embed/kBi_KUEkvak" allowfullscreen></iframe>
 </div>
 
 <ul>
