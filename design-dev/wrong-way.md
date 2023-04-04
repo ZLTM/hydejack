@@ -16,14 +16,10 @@ hide_description: true
 # TODO
 image: /assets/img/wrongway-portrait.jpg
 ---
-{:.lead}
-
-![Screenshot](/assets/img/wrongway-portrait.jpg){:.lead srcset="/assets/img/wrongway-portrait.jpg 1920w, /assets/img/wrongway-portrait.jpg 960w, /assets/img/wrongway-portrait.jpg 480w" data-width="1920" data-height="1080"}
-{:.figure}
-
 > Game made for the SunoFes 2020.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wkzj21OIUnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div position="relative" width="100%" padding-bottom="56.25%">
+<iframe position="absolute" top="0" left="0" width="100%" height="100%" border="0" src="https://www.youtube.com/embed/wkzj21OIUnE" allowfullscreen></iframe>
+</div>
 
 <ul>
   <li><b id="notice">Platform</b>: PC.</li>

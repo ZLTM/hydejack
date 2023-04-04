@@ -16,14 +16,10 @@ hide_description: true
 # TODO
 image: /assets/img/jhack-portrait.png
 ---
-{:.lead}
-
-![Screenshot](/assets/img/jhack-portrait.png){:.lead srcset="/assets/img/jhack-portrait.png 1920w, /assets/img/jhack-portrait.png 960w, /assets/img/jhack-portrait.png 480w" data-width="1920" data-height="1080"}
-{:.figure}
-
 > Project made for the bachelor degree of systems engineer, awarded with a qualification of 100/100, available for reading in spanish at the UCB web site http://www.bibvirtual.ucb.edu.bo:8000/opac/Record/101006186
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5diwIS62Ngg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div position="relative" width="100%" padding-bottom="56.25%">
+<iframe position="absolute" top="0" left="0" width="100%" height="100%" border="0" src="https://www.youtube.com/embed/5diwIS62Ngg" allowfullscreen></iframe>
+</div>
 
 <ul>
   <li><b id="notice">Platform</b>: PC.</li>
