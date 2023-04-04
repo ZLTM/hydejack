@@ -37,11 +37,11 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  assets/img/pic.jpg
+logo:                  assets/img/square_2.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                David Revilla
+  name:                David Revilla <Nuru>
   email:               jdavidrevillad@gamil.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
