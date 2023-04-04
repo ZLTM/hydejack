@@ -50,8 +50,8 @@ Abaroa Bolivian game awards
     Working as a translator I was able to improve my language and learn avout games localization, as a result i was also able to study games writting, field in wich I'm now very interested.
     </p>
   <br>
-  <p><b>Co-founder, organizer - Bolivian Videogames Asosiation (ABV) 2016 - 2018</b></p>
-    <p>Years ago the Bolivian videogame scene was very descentralized, the ABV tackled this problem by creating an asosiation ready to help any developer in the area, i was able to join this project as a founding member and, later on, as an organizer.<br>
+  <p><b>Co-founder, organizer - Bolivian Videogames Association (ABV) 2016 - 2018</b></p>
+    <p>Years ago the Bolivian videogame scene was very decentralized, the ABV tackled this problem by creating an association ready to help any developer in the area, i was able to join this project as a founding member and, later on, as an organizer.<br>
     Working on the ABV has been very fulfilling, I was able to help a community grow while helping new members giving talks on game design and narrative as I kept working on my own projects for the different events we held.
     </p>
   <br>
