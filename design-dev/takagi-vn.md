@@ -30,11 +30,11 @@ image: /assets/img/takagi-portrait.png
 
 <p>Visual novel in which I participated as part of the programming team, it was my first experience working as a game dev with an international team, I helped with the menu programming using Renpy while coordinating with the artists and other programmers.</p>
 
-<p>The visual novel is now done and ready to be downloaded 
-<a class="imgclass" href="https://drive.google.com/file/d/1uEoJMOHL9Wiy8BSkmUHprUdcONo_OVcv/view?usp=share_link" target="_blank"> skilled teaser Takagi-san </a>.</p>
+<p>The visual novel is now done and ready to be 
+<a class="imgclass" href="https://drive.google.com/file/d/1uEoJMOHL9Wiy8BSkmUHprUdcONo_OVcv/view?usp=share_link" target="_blank"> downloaded skilled teaser Takagi-san </a>.</p>
 
 <div>
-  <a class="imgclass" href="https://takagi-vn-dev.github.io/" target="_blank">
+  <a class="imgclass" href="https://takagi-vn-dev.github.io/tkvn-site/" target="_blank">
     <img align="right" class="game-social" src="/assets/img/takagi-web.jpg"/>
   </a>
 </div>
