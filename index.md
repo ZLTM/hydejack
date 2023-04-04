@@ -57,7 +57,7 @@ Abaroa Bolivian game awards
   <br>
   <p><b>API Automation engineer - IBM 2020 - Now</b></p>
     <p>Now working as an automation engineer for the largest software company in Bolivia with important clients arround the globe.<br>
-    In Jalasoft I am able to work directly with important clients, the quality in the code is constantly under review and the features implemented are a challenge on theyself.
+    In IBM I am able to work directly with important clients, the quality in the code is constantly under review and the features implemented are a challenge on theyself.
     </p>
   <br>
   <p><b>GUI Automation engineer - Processmaker 2018 - 2020</b></p>
