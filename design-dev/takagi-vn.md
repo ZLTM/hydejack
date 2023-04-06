@@ -16,12 +16,10 @@ hide_description: true
 # TODO
 image: /assets/img/takagi-portrait.png
 ---
-{:.lead}
-
-![Screenshot](/assets/img/takagi-portrait.png){:.lead srcset="/assets/img/takagi-portrait.png 1920w, /assets/img/takagi-portrait.png 960w, /assets/img/takagi-portrait.png 480w" data-width="1920" data-height="1080"}
-{:.figure}
-
 > Fan made visual novel project made for the Takagi san series
+<div position="relative" width="100%" padding-bottom="56.25%">
+<iframe position="absolute" top="0" left="0" width="100%" height="100%" border="0" src="https://www.youtube.com/embed/thrwUccJR4o" allowfullscreen></iframe>
+</div>
 
 <ul>
   <li><b id="notice">Platform</b>: PC.</li>
